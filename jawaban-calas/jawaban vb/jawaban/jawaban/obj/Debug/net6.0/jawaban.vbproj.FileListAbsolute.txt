@@ -1,0 +1,14 @@
+D:\codingan\jawaban\jawaban\jawaban\bin\Debug\net6.0\jawaban.exe
+D:\codingan\jawaban\jawaban\jawaban\bin\Debug\net6.0\jawaban.deps.json
+D:\codingan\jawaban\jawaban\jawaban\bin\Debug\net6.0\jawaban.runtimeconfig.json
+D:\codingan\jawaban\jawaban\jawaban\bin\Debug\net6.0\jawaban.dll
+D:\codingan\jawaban\jawaban\jawaban\bin\Debug\net6.0\jawaban.pdb
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.AssemblyInfoInputs.cache
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.AssemblyInfo.vb
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.vbproj.CoreCompileInputs.cache
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.dll
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\refint\jawaban.dll
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.pdb
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\jawaban.genruntimeconfig.cache
+D:\codingan\jawaban\jawaban\jawaban\obj\Debug\net6.0\ref\jawaban.dll
